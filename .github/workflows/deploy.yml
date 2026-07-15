@@ -1,7 +1,7 @@
-name: "Deploy"
+name: "QUIZZYCOOL"
 
 concurrency:
-  group: "deploy"
+  group: "github"
   cancel-in-progress: true
 
 on:
